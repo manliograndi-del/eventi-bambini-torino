@@ -668,7 +668,19 @@
           "label": "Calendario Clappit: selezionare 18 ottobre",
           "url": "https://www.clappit.com/biglietti-fondazione-cosso/homePage.html"
         }
-      ]
+      ],
+      "officialImage": {
+        "src": "https://www.fondazionecosso.com/wp-content/uploads/2026/02/sigmund-OV44gxH71DU-unsplash-1900x1267.jpg",
+        "credit": "Compagnons (@sigmund) / Unsplash · immagine scelta da Fondazione Cosso",
+        "license": "Licenza Unsplash",
+        "rightsUrl": "https://unsplash.com/license",
+        "authorUrl": "https://unsplash.com/photos/OV44gxH71DU",
+        "alt": "Mani impegnate in un laboratorio creativo: fotografia illustrativa scelta da Fondazione Cosso",
+        "note": "Foto illustrativa, non una fotografia della singola sessione.",
+        "sourceUrl": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-13/",
+        "reviewedAt": "2026-10-13",
+        "status": "approved"
+      }
     },
     {
       "id": "gisella",
@@ -991,7 +1003,17 @@
       "booking": "Informazioni e prenotazioni: 0116401600. Consigliate calze antiscivolo. Orario annunciato 17:30–19.",
       "researchNote": "Letta integralmente la comunicazione comunale: recuperati fascia d’età, gratuità, spazio esatto e indicazioni pratiche.",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "relatedSources": [],
+      "officialImage": {
+        "src": "https://www.comune.moncalieri.to.it/sites/default/files/styles/wide/public/2026-10/I-MARTEDI-DEI-RAGAZZI13102026.jpg.webp?itok=BtJ8D7Yv",
+        "credit": "Città di Moncalieri · Biblioteca civica A. Arduino",
+        "license": "CC BY 4.0",
+        "rightsUrl": "https://www.comune.moncalieri.to.it/note-legali",
+        "alt": "Locandina ufficiale di Odrigh, drago cantastorie, 13 ottobre alle 17:30",
+        "sourceUrl": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/martedi-dei-ragazzi-2",
+        "reviewedAt": "2026-10-13",
+        "status": "approved"
+      }
     },
     {
       "id": "cartoon-party",
@@ -1117,7 +1139,17 @@
       "booking": "Informazioni e prenotazioni: 0119894939, bibliotecacivicacaluso@gmail.com. Inizio 9:30; termine da chiarire: la locandina indica 11, il testo della pagina 11:30. Chiedere il costo.",
       "deepCheckedAt": "2026-10-12",
       "researchNote": "Letti notizia comunale e locandina incorporata: data ed età confermate, discordanza sull’ora finale conservata.",
-      "durationLabel": "Inizio 9:30 · termine 11 o 11:30, da chiarire"
+      "durationLabel": "Inizio 9:30 · termine 11 o 11:30, da chiarire",
+      "officialImage": {
+        "src": "https://comune.caluso.to.it/wp-content/uploads/sites/157/2026/09/Volantino-Giocoso-Informativo-Laboratorio-Creativo-Bambini-Azzurro-Arancione.png",
+        "credit": "Comune di Caluso · Biblioteca G. E. Mottini",
+        "license": "Riutilizzo con attribuzione",
+        "rightsUrl": "https://comune.caluso.to.it/note-legali/",
+        "alt": "Locandina dei laboratori creativi per bambini nella biblioteca di Caluso",
+        "sourceUrl": "https://comune.caluso.to.it/novita/laboratori-per-bambini-in-biblioteca-2/",
+        "reviewedAt": "2026-10-13",
+        "status": "approved"
+      }
     },
     {
       "id": "grazie-doc",
@@ -1146,7 +1178,17 @@
       "accessibility": "Da chiedere all’organizzatore",
       "booking": "Dalle 17. Termine, costo ed eventuali condizioni di partecipazione non specificati nel comunicato letto. Consultare gli aggiornamenti del Comune.",
       "deepCheckedAt": "2026-10-12",
-      "researchNote": "Notizia ufficiale pubblicata il 12 ottobre, recuperata nella sezione notizie del Comune."
+      "researchNote": "Notizia ufficiale pubblicata il 12 ottobre, recuperata nella sezione notizie del Comune.",
+      "officialImage": {
+        "src": "https://www.comune.borgaro-torinese.to.it/wp-content/webp-express/webp-images/uploads/2026/10/pediatri-2.pdf.jpg.webp",
+        "credit": "Comune di Borgaro Torinese",
+        "license": "CC BY 4.0",
+        "rightsUrl": "https://www.comune.borgaro-torinese.to.it/note-legali/",
+        "alt": "Locandina ufficiale Grazie Doc!, 16 ottobre alle 17:00 in piazza della Repubblica",
+        "sourceUrl": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
+        "reviewedAt": "2026-10-13",
+        "status": "approved"
+      }
     },
     {
       "id": "autunno-valigia",

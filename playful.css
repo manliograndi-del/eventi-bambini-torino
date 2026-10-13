@@ -33,3 +33,6 @@
 .empty-theatre{aspect-ratio:695.33/670;overflow:hidden}.empty-theatre>img{width:300%;left:-200%;top:-12.54%}.empty-theatre #emptyReset{top:12%;height:27%;width:24%;right:0}
 
 .empty-theatre{clip-path:inset(0 0 0 3.5%)}
+
+/* Immagini ufficiali solo nelle schede; tessere sempre illustrate. */
+.detail-media{margin:8px 0 22px;min-width:0}.detail-media figcaption,.media-fallback small{display:block;font-size:11px;line-height:1.5;color:#617168;margin-top:8px}.detail-media a{color:inherit;text-underline-offset:2px}.detail-media .art{width:100%;max-width:240px;margin-bottom:0}.official-media .official-photo,.official-media>figcaption{display:none}.official-media.photo-loaded .media-fallback{display:none}.official-media.photo-loaded .official-photo{display:block;width:100%;height:auto;max-height:58vh;object-fit:contain;border-radius:8px}.official-media.photo-loaded>figcaption{display:block}.official-media.photo-loaded{max-width:100%}
