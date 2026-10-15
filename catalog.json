@@ -44,7 +44,12 @@
           "label": "Biglietteria e dettaglio tariffe",
           "url": "https://piemonteitalia.tm.bestunion.com/biglietteria/pub/buyseats/scegliSettorePub.do?idEvento=140073"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://casateatroragazzi.it/spettacoli/le-avventure-di-cipidillo-storia-di-un-grillo/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      }
     },
     {
       "id": "much-crimine",
@@ -91,7 +96,12 @@
           "label": "Biglietti laboratorio e selezione data",
           "url": "https://biglietteria.my-ticket.it/biglietti?store=museochimica&cat=2913"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.mu-ch.it/evento/il-museo-del-crimine-17-ottobre-2026-much/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      }
     },
     {
       "id": "much-cucine",
@@ -136,7 +146,12 @@
           "label": "Biglietteria show scientifici",
           "url": "https://biglietteria.my-ticket.it/biglietti?store=museochimica&cat=2914"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      }
     },
     {
       "id": "ogr-fantasia",
@@ -148,24 +163,24 @@
       "ageMaxMonths": 120,
       "ageLabel": "4–10 anni",
       "occurrences": [
-        "2026-10-14T20:30:00+02:00"
+        "2026-10-21T20:30:00+02:00"
       ],
-      "startsAt": "2026-10-14T20:30:00+02:00",
+      "startsAt": "2026-10-21T20:30:00+02:00",
       "url": "https://ogrtorino.it/events/officina-fantasia",
       "description": "Una lettura animata online per salutare la giornata: Elisa Lombardi alterna racconto, interpretazioni e suoni, spiegando parole difficili e passaggi importanti della storia. Bambini e adulti ascoltano insieme prima della buonanotte.",
       "venue": "Online · organizzato da OGR Torino",
       "costLabel": "Gratuito · prenotazione richiesta",
       "costBand": "free",
       "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Letta la presentazione completa e controllato il richiamo alla prenotazione email; nessun modulo compilato.",
+      "verificationMethod": "Pagina originale e calendario consultati nel browser il 15 ottobre 2026.",
       "status": "published",
-      "verifiedAt": "2026-10-12",
+      "verifiedAt": "2026-10-15",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Attività gratuita online; la pagina richiede prenotazione tramite email. Recapito specifico non recuperato dal pulsante: usare il canale indicato nella pagina OGR.",
-      "researchNote": "Letta la presentazione completa e controllato il richiamo alla prenotazione email; nessun modulo compilato.",
-      "deepCheckedAt": "2026-10-12",
+      "booking": "Gratuito, online. Prenotazione tramite prenotazioni@ogrtorino.it.",
+      "researchNote": "Calendario e descrizione originali OGR riletti: 21 ottobre 2026 ore 20:30; 4–10 anni; gratuito; email del pulsante verificata.",
+      "deepCheckedAt": "2026-10-15",
       "relatedSources": []
     },
     {
@@ -209,7 +224,12 @@
           "label": "Prenotazioni e disponibilità",
           "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=191"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://ogrtorino.it/events/tictac-lab-costruiamo-il-tempo",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "ogr-mondo",
@@ -251,7 +271,12 @@
           "label": "Stato delle prenotazioni",
           "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=192"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://ogrtorino.it/events/in-viaggio-verso-il-mondo-perduto",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "ogr-pizza",
@@ -293,7 +318,12 @@
           "label": "Richiesta lista d’attesa",
           "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=199"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://ogrtorino.it/events/pizza-pazza-chez-operti",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "ateliebebe",
@@ -336,7 +366,12 @@
           "label": "Sede indicata dall’organizzatore",
           "url": "https://unionemusicale.it/sala/collegio-san-giuseppe-aula-polivalente-2/"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://unionemusicale.it/concerto/ateliebebe-18102026/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "rosaluna",
@@ -394,39 +429,12 @@
         ]
       ],
       "researchNote": "Letti sito del teatro, durata e tariffario della rassegna; Vivaticket restituisce solo la schermata VIVABOT.",
-      "deepCheckedAt": "2026-10-12"
-    },
-    {
-      "id": "ruolando",
-      "title": "Ruolando in biblio",
-      "organizationId": "org-35",
-      "category": "Biblioteche e librerie",
-      "municipality": "Torino",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Ragazzi · età minima da chiedere",
-      "occurrences": [
-        "2026-10-14T17:00:00+02:00"
-      ],
-      "startsAt": "2026-10-14T17:00:00+02:00",
-      "url": "https://bct.comune.torino.it/eventi-attivita/ruolando-in-biblio-5",
-      "description": "Una sessione singola di Call of Cthulhu, gioco di ruolo ispirato all’orrore cosmico di Lovecraft. Si può partecipare anche senza esperienza: il requisito è la voglia di avventura. La biblioteca la rivolge a ragazzi, giovani e adulti, non ai bambini piccoli.",
-      "venue": "Biblioteca di via Negarville · Torino",
-      "costLabel": "Gratuito · prenotazione entro il 13 ottobre",
-      "costBand": "free",
-      "discoverySources": [
-        "https://www.torinobimbi.it/agenda/ruolando-in-biblio"
-      ],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Letta la pagina completa: il secondo appuntamento del 31 ottobre riguarda Mothership ed è fuori dalla settimana del catalogo.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Prenotazione entro il 13 ottobre, fino a esaurimento posti: 01101139780 oppure puntobibliotecario.negarville@comune.torino.it. Età minima numerica non dichiarata.",
-      "researchNote": "Letta la pagina completa: il secondo appuntamento del 31 ottobre riguarda Mothership ed è fuori dalla settimana del catalogo.",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.comune.settimo-torinese.to.it/it/eventi/57411/rosaluna-e-i-lupi-728766-728768",
+        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
+      }
     },
     {
       "id": "toro-picasso",
@@ -479,7 +487,12 @@
         ]
       ],
       "researchNote": "Seguito il link dal Barrito al profilo Eventbrite e aperta la scheda del singolo laboratorio: confermati età, durata e modalità.",
-      "deepCheckedAt": "2026-10-12"
+      "deepCheckedAt": "2026-10-12",
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.barrito.to.it/i-sabati-giocondi-ottobre-2026/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      }
     },
     {
       "id": "lingotto-nuvole",
@@ -521,7 +534,15 @@
           "label": "Modulo di prenotazione",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSccDaqT0f4wYmE2eyxtCkigD_WjgsLD7_sD1GUQHCvwyLKDrA/viewform"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.pinacoteca-agnelli.it/eventi/piccole-domeniche-lingotto-e-nuvole-2/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      },
+      "occurrenceEnds": {
+        "2026-10-18T11:00:00+02:00": "2026-10-18T12:00:00+02:00"
+      }
     },
     {
       "id": "luogo-luogo",
@@ -563,7 +584,15 @@
           "label": "Modulo di prenotazione",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSex3iXw6Mytr1r5Ud2hZznW-OHU-zNvYgSD1-AfVu_EZ37UKw/viewform"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.pinacoteca-agnelli.it/eventi/family-afternoons-di-luogo-in-luogo-7/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      },
+      "occurrenceEnds": {
+        "2026-10-18T16:00:00+02:00": "2026-10-18T17:30:00+02:00"
+      }
     },
     {
       "id": "mao-india",
@@ -595,7 +624,12 @@
       "researchNote": "Aperti pagina evento, immagine originale e menu Servizi Educativi. Nessun prezzo o dettaglio ulteriore recuperabile; non trasferiti automaticamente quelli degli aggregatori.",
       "researchStatus": "dettagli_parziali",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "relatedSources": [],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.maotorino.it/it/evento/aspettando-la-festa-indiana-delle-luci-lindia-tra-sculture-e-polveri-colorate/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      }
     },
     {
       "id": "disney-mauto",
@@ -626,7 +660,15 @@
       "durationLabel": "Finestra attività: 2 ore",
       "researchNote": "Letta la pagina completa: nessun collegamento a una prenotazione specifica del workshop.",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "relatedSources": [],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.museoauto.com/eventi/disegna-con-un-artista-disney/",
+        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
+      },
+      "occurrenceEnds": {
+        "2026-10-17T10:30:00+02:00": "2026-10-17T12:30:00+02:00"
+      }
     },
     {
       "id": "miradolo-spazio",
@@ -680,6 +722,11 @@
         "sourceUrl": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-13/",
         "reviewedAt": "2026-10-13",
         "status": "approved"
+      },
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-13/",
+        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
       }
     },
     {
@@ -692,26 +739,31 @@
       "ageMaxMonths": 12,
       "ageLabel": "7–12 mesi",
       "occurrences": [
-        "2026-10-13T17:00:00+02:00"
+        "2026-10-20T17:00:00+02:00"
       ],
-      "startsAt": "2026-10-13T17:00:00+02:00",
+      "startsAt": "2026-10-20T17:00:00+02:00",
       "url": "https://spaziozerosei.it/calendario-eventi/",
-      "description": "Laboratorio per piccolissimi, dalle 17 alle 18.",
+      "description": "Un’attività ispirata a Gisella pipistrella di J. Willis e T. Ross, per piccoli gruppi di adulti e bambini di 7–12 mesi. Il laboratorio dura un’ora.",
       "venue": "Spazio ZeroSei · piazza della Repubblica 2B",
       "costLabel": "5 €",
       "costBand": "low",
       "discoverySources": [],
-      "verificationMethod": "Calendario originale consultato: giorno 13 ottobre e laboratorio 7–12 mesi della settimana 12–16 ottobre 2026.",
+      "verificationMethod": "Calendario interattivo originale, selezione 20 ottobre e apertura dettagli.",
       "status": "published",
-      "verifiedAt": "2026-10-12",
+      "verifiedAt": "2026-10-15",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "booking": "Prenotazione obbligatoria: 0115212432, spaziozerosei@xkezerotredici.it.",
-      "researchNote": "Riaperto il calendario e ricaricata la pagina: in questa sessione mostra mese ed età ma non carica gli appuntamenti. Restano i dati già letti nel precedente controllo del giorno 13; nessuna nuova descrizione dettagliata attribuita all’originale.",
-      "researchStatus": "dettagli_parziali",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "researchNote": "Calendario ottobre 2026: selezionato il giorno 20 e aperto il laboratorio 7–12 mesi. Confermati 17–18, costo 5 euro e prenotazione necessaria.",
+      "researchStatus": "verificato",
+      "deepCheckedAt": "2026-10-15",
+      "relatedSources": [
+        "https://spaziozerosei.it/wp-content/uploads/2026/10/VOLANTINO-gisella-19-ott-scaled.png"
+      ],
+      "occurrenceEnds": {
+        "2026-10-20T17:00:00+02:00": "2026-10-20T18:00:00+02:00"
+      }
     },
     {
       "id": "helix-esploratori",
@@ -742,7 +794,15 @@
       "durationLabel": "2 ore e mezza",
       "researchNote": "Letto direttamente il programma delle missioni. Non esteso al 18 ottobre il prezzo di 25 € indicato soltanto per alcune uscite di settembre.",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "relatedSources": [],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.nelboscoconhelix.com/calendario-accademia-degli-esploratori-scopri-tutte-le-date-per-non-perderle/",
+        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
+      },
+      "occurrenceEnds": {
+        "2026-10-18T15:00:00+02:00": "2026-10-18T17:30:00+02:00"
+      }
     },
     {
       "id": "san-giorgio",
@@ -774,7 +834,12 @@
       "durationLabel": "50–60 minuti",
       "researchNote": "Letti direttamente programma, due repliche e condizioni; la prenotazione avviene tramite contatto, non tramite una biglietteria online.",
       "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      "relatedSources": [],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.casa-bit.it/10-rassegna-del-piccolo-teatro-di-casa-bit/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "mrsn-visite",
@@ -819,7 +884,12 @@
           "label": "Modulo indicato per la visita",
           "url": "https://forms.gle/SDXhbUcUp8Rf1oHv6"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://mrsntorino.it/it/eventi/visita-guidata-18-10-2026/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "ogr-faro",
@@ -861,7 +931,12 @@
           "label": "Lista d’attesa FARO",
           "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=198"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://ogrtorino.it/events/sunset-puppets-show-faro",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "aperi-cielo",
@@ -976,46 +1051,6 @@
       ]
     },
     {
-      "id": "odrigh",
-      "title": "Odrigh, drago cantastorie",
-      "organizationId": "moncalieri-new",
-      "category": "Biblioteche e librerie",
-      "municipality": "Moncalieri",
-      "ageMinMonths": 36,
-      "ageMaxMonths": 72,
-      "ageLabel": "3–6 anni",
-      "occurrences": [
-        "2026-10-13T17:30:00+02:00"
-      ],
-      "startsAt": "2026-10-13T17:30:00+02:00",
-      "url": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/martedi-dei-ragazzi-2",
-      "description": "Valeria De Cubellis racconta le storie del drago Odrigh usando tecniche narrative diverse e coinvolge i bambini in una piccola rappresentazione scenica. Un incontro per ascoltare, immaginare e scoprire come si costruisce una storia.",
-      "venue": "Biblioteca Arduino · Piccolo Anfiteatro Millecolori, via Cavour 31, Moncalieri",
-      "costLabel": "Gratuito",
-      "costBand": "free",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Letta integralmente la comunicazione comunale: recuperati fascia d’età, gratuità, spazio esatto e indicazioni pratiche.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Informazioni e prenotazioni: 0116401600. Consigliate calze antiscivolo. Orario annunciato 17:30–19.",
-      "researchNote": "Letta integralmente la comunicazione comunale: recuperati fascia d’età, gratuità, spazio esatto e indicazioni pratiche.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": [],
-      "officialImage": {
-        "src": "https://www.comune.moncalieri.to.it/sites/default/files/styles/wide/public/2026-10/I-MARTEDI-DEI-RAGAZZI13102026.jpg.webp?itok=BtJ8D7Yv",
-        "credit": "Città di Moncalieri · Biblioteca civica A. Arduino",
-        "license": "CC BY 4.0",
-        "rightsUrl": "https://www.comune.moncalieri.to.it/note-legali",
-        "alt": "Locandina ufficiale di Odrigh, drago cantastorie, 13 ottobre alle 17:30",
-        "sourceUrl": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/martedi-dei-ragazzi-2",
-        "reviewedAt": "2026-10-13",
-        "status": "approved"
-      }
-    },
-    {
       "id": "cartoon-party",
       "title": "Cartoon Party",
       "organizationId": "second-cartoon-party",
@@ -1043,7 +1078,15 @@
       "booking": "Prenotazione obbligatoria: amisuradifamiglianpl@gmail.com. Il luogo esatto viene comunicato alla prenotazione; la biblioteca MOviMEnte non è la sede della proiezione.",
       "deepCheckedAt": "2026-10-12",
       "researchNote": "Seconda verifica: pagina originale e materiali collegati letti direttamente.",
-      "durationLabel": "16–17 secondo la scheda comunale"
+      "durationLabel": "16–17 secondo la scheda comunale",
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.comune.chivasso.to.it/it/eventi/64428/vitamina-c-come-cultura-a-verrua-savoia-2513866-2513868-2513869-2513871",
+        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
+      },
+      "occurrenceEnds": {
+        "2026-10-18T16:00:00+02:00": "2026-10-18T17:00:00+02:00"
+      }
     },
     {
       "id": "circo-famiglia",
@@ -1109,7 +1152,15 @@
           "label": "Comune di Torino · gratuità e contatti",
           "url": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialita-al-quadrato"
         }
-      ]
+      ],
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://centrorelazioniefamiglie.it/genitorialita-al-quadrato/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      },
+      "occurrenceEnds": {
+        "2026-10-17T10:00:00+02:00": "2026-10-17T11:30:00+02:00"
+      }
     },
     {
       "id": "caluso-laboratori",
@@ -1188,6 +1239,11 @@
         "sourceUrl": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
         "reviewedAt": "2026-10-13",
         "status": "approved"
+      },
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
+        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
       }
     },
     {
@@ -1218,7 +1274,12 @@
       "booking": "La data del 17 è confermata. Le 10:30 sono l’orario generale dei Sabati Favolosi nel programma: verificare quello della singola attività, sede, fascia d’età e costo. La sede La Fabrica e la gratuità della segnalazione secondaria non sono confermate dal testo originale letto.",
       "deepCheckedAt": "2026-10-12",
       "researchNote": "Programma letto sulla testata del Comune; confermati titolo, data e curatrice, lasciati espliciti i dettagli mancanti.",
-      "timeUnknown": true
+      "timeUnknown": true,
+      "lastReview": {
+        "date": "2026-10-15",
+        "source": "https://avigliananotizie.it/ottobre-in-biblioteca/",
+        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
+      }
     },
     {
       "id": "graphic-visite",
@@ -1262,6 +1323,34 @@
           "url": "https://www.graphicdays.it/2026/biglietti/"
         }
       ]
+    },
+    {
+      "id": "storytelling-arpa",
+      "title": "Storytelling con arpa",
+      "organizationId": "second-autunno-valigia",
+      "category": "Biblioteche e librerie",
+      "municipality": "Avigliana",
+      "ageMinMonths": 72,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 6 anni",
+      "occurrences": [
+        "2026-10-16T17:00:00+02:00"
+      ],
+      "startsAt": "2026-10-16T17:00:00+02:00",
+      "url": "https://avigliananotizie.it/ottobre-in-biblioteca/",
+      "description": "Un incontro in biblioteca che intreccia racconto, arpa ed educazione musicale. Conduce Sabrina Carbonara, educatrice musicale del Sistema Goitre e musicoterapeuta specializzata in arpaterapia.",
+      "venue": "Biblioteca civica Primo Levi · Avigliana",
+      "costLabel": "Costo da confermare",
+      "costBand": "unknown",
+      "discoverySources": [],
+      "verificationMethod": "Programma di ottobre letto nella testata del Comune di Avigliana il 15 ottobre 2026.",
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "booking": "Modalità di prenotazione e costo non specificati nel programma: chiedere alla biblioteca prima di partecipare.",
+      "illustration": "illustrazione-storytelling-arpa.png"
     }
   ],
   "organizations": [

@@ -318,5 +318,15 @@
     "cell": 15,
     "generatedOn": "2026-10-13",
     "note": "Illustrazione originale generata da descrizione; non materiale ufficiale."
+  },
+  {
+    "eventId": "storytelling-arpa",
+    "title": "Storytelling con arpa",
+    "source": "https://avigliananotizie.it/ottobre-in-biblioteca/",
+    "description": "Un incontro in biblioteca che intreccia racconto, arpa ed educazione musicale. Conduce Sabrina Carbonara, educatrice musicale del Sistema Goitre e musicoterapeuta specializzata in arpaterapia.",
+    "asset": "illustrazione-storytelling-arpa.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Illustrazione originale gouache/collage: donna con arpa e gruppo di bambini 6–10 anni in biblioteca, libri, note e foglie autunnali; verde salvia, terracotta, giallo e crema; nessun testo o logo.",
+    "note": "Illustrazione simbolica generata dalla descrizione verificata, non fotografia dell’attività."
   }
 ]
