@@ -144,10 +144,11 @@
     "title": "Disegna con un artista Disney",
     "source": "https://www.museoauto.com/eventi/disegna-con-un-artista-disney/",
     "description": "Un artista Disney mostra come nasce un personaggio e invita grandi e piccoli a provarci con matite e colori. Workshop gratuito in collaborazione con Giunti Editore, dalle 10:30 alle 12:30 nella Piazza del MAUTO.",
-    "asset": "illustrations-a.png",
-    "cell": 14,
-    "generatedOn": "2026-10-13",
-    "note": "Illustrazione originale generata da descrizione; non materiale ufficiale."
+    "asset": "illustrazione-disney-mauto-v2.png",
+    "generatedOn": "2026-10-15",
+    "note": "Correzione della volpe arbitraria. La testata originale mostra McQueen; nuova illustrazione simbolica di un disegno di automobile. Il testo non promette un esercizio esclusivamente sulle auto. Generata con strumento integrato.",
+    "prompt": "Square editorial gouache and paper collage illustration of a drawing workshop about automobiles. Overhead still life: a large cream sheet of paper bearing a simple red ordinary automobile sketch, with four coloured pencils arranged beside the paper and a pencil touching an unfinished wheel. No people, no characters, no faces, no eyes on the car, no logos, no words. Warm cream sage ochre terracotta colours, tactile paper grain, cheerful simple design readable as a small tile. The red automobile drawing occupies most of the composition.",
+    "visualReference": "https://www.museoauto.com/eventi/disegna-con-un-artista-disney/"
   },
   {
     "eventId": "miradolo-spazio",
