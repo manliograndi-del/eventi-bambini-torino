@@ -328,5 +328,85 @@
     "generatedOn": "2026-10-15",
     "prompt": "Illustrazione originale gouache/collage: donna con arpa e gruppo di bambini 6–10 anni in biblioteca, libri, note e foglie autunnali; verde salvia, terracotta, giallo e crema; nessun testo o logo.",
     "note": "Illustrazione simbolica generata dalla descrizione verificata, non fotografia dell’attività."
+  },
+  {
+    "eventId": "gravity",
+    "title": "Gravity · Connection",
+    "source": "https://gravityshow.it/",
+    "description": "Uno spettacolo circense che unisce acrobazie, numeri spericolati, musica e comicità sotto il tendone. Le repliche si prenotano separatamente: scegliere giorno e orario nella biglietteria ufficiale.",
+    "asset": "illustrazione-gravity.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: A circus acrobat soaring on aerial fabric under a colourful circus tent, audience of families below. Symbolic cover for a contemporary circus show with acrobatics, not an exact reproduction of performers. No animals.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "pellerina",
+    "title": "Luna park della Pellerina",
+    "source": "https://oktoberfest.torino.it/il-luna-park",
+    "description": "Un luna park temporaneo con giostre per famiglie e attrazioni più movimentate. Si può andare anche soltanto per le giostre: prezzi e limiti di accesso vanno controllati per ciascuna attrazione.",
+    "asset": "illustrazione-pellerina.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: A small festive amusement park in autumn, large colourful carousel and ferris wheel, families strolling. Symbolic depiction, not a map or claim about specific rides.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "trampolieri",
+    "title": "Tre trampolieri alla Pellerina",
+    "source": "https://oktoberfest.torino.it/node/211",
+    "description": "Tre artisti sui trampoli della compagnia CITA animano la festa al parco. Un appuntamento di spettacolo di strada da vedere insieme in famiglia.",
+    "asset": "illustrazione-trampolieri.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: Three friendly street performers on tall stilts in bright theatrical costumes delighting children outdoors in an autumn park.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "biblioclown",
+    "title": "Biblioclown",
+    "source": "https://www.pagliacce.it/spettacolo/biblioclown-9/",
+    "description": "Un laboratorio per bambini che intreccia movimento, immaginazione e gioco clownesco. Le attività invitano a esplorare possibilità e ruoli senza restare chiusi negli stereotipi.",
+    "asset": "illustrazione-biblioclown.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: Children experimenting with funny poses and clown hats alongside a woman clown in a green garden, playful movement workshop, no circus animals.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "emozioni-parita",
+    "title": "Laboratorio di educazione affettiva e parità",
+    "source": "https://www.pagliacce.it/spettacolo/laboratorio-di-educazione-affettiva-e-parita-6-10-anni/",
+    "description": "Un incontro per esplorare emozioni, relazioni e parità insieme a Pagliacce Network ed EMMA-CAV. Il laboratorio è rivolto a bambine e bambini dai 6 ai 10 anni.",
+    "asset": "illustrazione-emozioni-parita.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: A small group of diverse primary-school children sitting in a circle with a facilitator, sharing colourful heart and face cards, symbolic workshop about feelings, respect and friendship.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "parata-pagliacce",
+    "title": "Parata bimb@quartiere",
+    "source": "https://www.pagliacce.it/spettacolo/parata-bimb-quartiere-con-le-artiste-del-festival-e-le-famiglie-del-quartiere/",
+    "description": "Una parata di quartiere con le artiste del festival, bambine, bambini e famiglie. Il ritrovo è al Cecchi Point per condividere un momento di festa per le strade.",
+    "asset": "illustrazione-parata-pagliacce.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: Children, parents and women clowns walking together in a joyful neighbourhood parade with colourful homemade hats, bunting and playful costumes.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "kids",
+    "title": "Pagliacce Kids · Creature Fantastiche",
+    "source": "https://www.pagliacce.it/spettacolo/pagliacce-kids-creature-fantastiche/",
+    "description": "Un cabaret per bambini e famiglie popolato da personaggi buffi e creature immaginarie. Le artiste di Pagliacce Network alternano comicità, acrobazie, giochi e trasformazioni.",
+    "asset": "illustrazione-kids.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Square illustration for a small clickable tile on an Italian children's events website. Original hand-painted gouache and cut-paper collage, warm cream, sage green, ochre and terracotta with lively accents. Large simple silhouettes, readable at 130px, no text, lettering, logos or watermarks. Symbolic illustration, not documentary. Subject: Pagliacce Kids, a family clown cabaret with women performers, comic characters and playful imaginary creatures; two friendly women clowns with funny hats bowing on a little stage while children laugh, expressive and welcoming, no circus animals. Fill square with balanced composition.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
+  },
+  {
+    "eventId": "zoom-halloween",
+    "title": "Halloween Night a ZOOM",
+    "source": "https://eventi.zoomtorino.it/halloween",
+    "description": "Una serata di Halloween in famiglia tra allestimenti, cantastorie e animazione. Il programma comprende spettacoli e attività a tema: consultare il programma ufficiale per gli orari dei singoli appuntamenti.",
+    "asset": "illustrazione-zoom-halloween.png",
+    "generatedOn": "2026-10-15",
+    "prompt": "Use case: illustration-story. Create ONE square original illustration for a small clickable tile on a children's events website. Hand-painted gouache and cut-paper collage, warm cream, sage green, ochre, terracotta and lively accents, textured paper. Clear large shapes legible at 130px. No text, no lettering, no logos, no watermark. Symbolic illustration rather than documentary photograph. Subject: Friendly Halloween family activities: children with a storyteller and glowing soap bubbles, small pumpkins and playful harmless skeleton decorations, warm welcoming autumn mood, no scary horror.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata; non fotografia né materiale ufficiale."
   }
 ]

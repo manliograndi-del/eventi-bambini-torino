@@ -1351,6 +1351,301 @@
       "accessibility": "Da chiedere all’organizzatore",
       "booking": "Modalità di prenotazione e costo non specificati nel programma: chiedere alla biblioteca prima di partecipare.",
       "illustration": "illustrazione-storytelling-arpa.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "unknown",
+      "booking": "Ridotto dai 2 ai 9 anni; sotto i 2 anni omaggio. Commissioni aggiuntive in biglietteria.",
+      "scheduleType": "limited_series",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "gravity",
+      "title": "Gravity · Connection",
+      "organizationId": "new-gravity",
+      "category": "Circo",
+      "venue": "Tendone Gravity · corso Principe Oddone",
+      "url": "https://gravityshow.it/",
+      "occurrences": [
+        "2026-10-16T20:00:00+02:00",
+        "2026-10-17T15:30:00+02:00",
+        "2026-10-17T18:00:00+02:00",
+        "2026-10-18T15:30:00+02:00",
+        "2026-10-18T18:00:00+02:00",
+        "2026-10-19T17:30:00+02:00"
+      ],
+      "description": "Uno spettacolo circense che unisce acrobazie, numeri spericolati, musica e comicità sotto il tendone. Le repliche si prenotano separatamente: scegliere giorno e orario nella biglietteria ufficiale.",
+      "costLabel": "A pagamento · prezzo secondo il posto",
+      "relatedSources": [
+        {
+          "label": "Repliche e biglietti ufficiali",
+          "url": "https://www.ticketone.it/artist/gravity-show/?inApp=true"
+        }
+      ],
+      "startsAt": "2026-10-16T20:00:00+02:00",
+      "illustration": "illustrazione-gravity.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "unknown",
+      "booking": "Periodo annunciato: 17 ottobre–1 novembre 2026. Il sito riporta gli orari generali della festa; verificare quelli delle singole giostre.",
+      "scheduleType": "limited_series",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "pellerina",
+      "title": "Luna park della Pellerina",
+      "organizationId": "new-pellerina",
+      "category": "Gioco e parchi",
+      "venue": "Parco della Pellerina",
+      "url": "https://oktoberfest.torino.it/il-luna-park",
+      "occurrences": [
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "timeUnknown": true,
+      "description": "Un luna park temporaneo con giostre per famiglie e attrazioni più movimentate. Si può andare anche soltanto per le giostre: prezzi e limiti di accesso vanno controllati per ciascuna attrazione.",
+      "costLabel": "Giostre a pagamento · tariffe non pubblicate",
+      "startsAt": "2026-10-17",
+      "illustration": "illustrazione-pellerina.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "unknown",
+      "booking": "Consultare la fonte per informazioni e prenotazioni.",
+      "scheduleType": "single",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "trampolieri",
+      "title": "Tre trampolieri alla Pellerina",
+      "organizationId": "new-pellerina",
+      "category": "Spettacoli",
+      "venue": "Parco della Pellerina · Oktoberfest Torino",
+      "url": "https://oktoberfest.torino.it/node/211",
+      "occurrences": [
+        "2026-10-18T12:00:00+02:00"
+      ],
+      "description": "Tre artisti sui trampoli della compagnia CITA animano la festa al parco. Un appuntamento di spettacolo di strada da vedere insieme in famiglia.",
+      "costLabel": "Costo non indicato per questo appuntamento",
+      "startsAt": "2026-10-18T12:00:00+02:00",
+      "illustration": "illustrazione-trampolieri.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "low",
+      "booking": "Biglietteria: intero 5 €, diritti di agenzia 1–1,20 € a biglietto. Verificare disponibilità scegliendo la data.",
+      "scheduleType": "limited_series",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "biblioclown",
+      "title": "Biblioclown",
+      "organizationId": "new-pagliacce",
+      "category": "Laboratori",
+      "venue": "Giardini Maria Teresa di Calcutta · corso Vercelli 10",
+      "url": "https://www.pagliacce.it/spettacolo/biblioclown-9/",
+      "occurrences": [
+        "2026-10-17T11:00:00+02:00",
+        "2026-10-18T15:00:00+02:00"
+      ],
+      "description": "Un laboratorio per bambini che intreccia movimento, immaginazione e gioco clownesco. Le attività invitano a esplorare possibilità e ruoli senza restare chiusi negli stereotipi.",
+      "costLabel": "5 € + diritti online",
+      "relatedSources": [
+        {
+          "label": "Appuntamento del 18 ottobre",
+          "url": "https://www.pagliacce.it/spettacolo/biblioclown-10/"
+        },
+        {
+          "label": "Prenotazione",
+          "url": "https://www.ticket.it/teatro/evento/biblioclown_33961.aspx"
+        }
+      ],
+      "startsAt": "2026-10-17T11:00:00+02:00",
+      "illustration": "illustrazione-biblioclown.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 120,
+      "ageLabel": "6–10 anni",
+      "costBand": "low",
+      "booking": "Biglietteria: intero 5 €, diritti di agenzia 1–1,20 € a biglietto.",
+      "scheduleType": "single",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "emozioni-parita",
+      "title": "Laboratorio di educazione affettiva e parità",
+      "organizationId": "new-pagliacce",
+      "category": "Laboratori",
+      "venue": "Giardini Maria Teresa di Calcutta · corso Vercelli 10",
+      "url": "https://www.pagliacce.it/spettacolo/laboratorio-di-educazione-affettiva-e-parita-6-10-anni/",
+      "occurrences": [
+        "2026-10-17T15:00:00+02:00"
+      ],
+      "description": "Un incontro per esplorare emozioni, relazioni e parità insieme a Pagliacce Network ed EMMA-CAV. Il laboratorio è rivolto a bambine e bambini dai 6 ai 10 anni.",
+      "costLabel": "5 € + diritti online",
+      "relatedSources": [
+        {
+          "label": "Prenotazione",
+          "url": "https://www.ticket.it/teatro/evento/laboratorio-di-educazione-affettiva-e-parita.aspx"
+        }
+      ],
+      "startsAt": "2026-10-17T15:00:00+02:00",
+      "illustration": "illustrazione-emozioni-parita.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "unknown",
+      "booking": "Consultare la fonte per informazioni e prenotazioni.",
+      "scheduleType": "single",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "parata-pagliacce",
+      "title": "Parata bimb@quartiere",
+      "organizationId": "new-pagliacce",
+      "category": "Spettacoli",
+      "venue": "Cecchi Point · via Antonio Cecchi 17 · partenza",
+      "url": "https://www.pagliacce.it/spettacolo/parata-bimb-quartiere-con-le-artiste-del-festival-e-le-famiglie-del-quartiere/",
+      "occurrences": [
+        "2026-10-17T17:00:00+02:00"
+      ],
+      "description": "Una parata di quartiere con le artiste del festival, bambine, bambini e famiglie. Il ritrovo è al Cecchi Point per condividere un momento di festa per le strade.",
+      "costLabel": "Costo non indicato nella pagina",
+      "startsAt": "2026-10-17T17:00:00+02:00",
+      "illustration": "illustrazione-parata-pagliacce.png"
+    },
+    {
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "low",
+      "booking": "Per il 18 ottobre la biglietteria mostra posto unico, intero 5 €, più diritti di agenzia 1–1,20 €. Durata indicata: 16–17.",
+      "scheduleType": "single",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "kids",
+      "title": "Pagliacce Kids · Creature Fantastiche",
+      "organizationId": "new-pagliacce",
+      "category": "Teatro",
+      "venue": "Cecchi Point · via Antonio Cecchi 17",
+      "url": "https://www.pagliacce.it/spettacolo/pagliacce-kids-creature-fantastiche/",
+      "occurrences": [
+        "2026-10-18T16:00:00+02:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-18T16:00:00+02:00": "2026-10-18T17:00:00+02:00"
+      },
+      "description": "Un cabaret per bambini e famiglie popolato da personaggi buffi e creature immaginarie. Le artiste di Pagliacce Network alternano comicità, acrobazie, giochi e trasformazioni.",
+      "costLabel": "5 € + diritti online",
+      "relatedSources": [
+        {
+          "label": "Biglietteria e tariffa della replica",
+          "url": "https://www.ticket.it/teatro/evento/pagliacce-kids-creature-fantastiche.aspx"
+        }
+      ],
+      "startsAt": "2026-10-18T16:00:00+02:00",
+      "illustration": "illustrazione-kids.png"
+    },
+    {
+      "municipality": "Cumiana",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età consigliata non indicata",
+      "costBand": "low",
+      "booking": "Promozione online indicata fino al 22 ottobre, da verificare all’acquisto. Ultimo ingresso 20:30, chiusura 22. Gli animali sono visibili fino alle 19. Il biglietto giornaliero ha una tariffa diversa.",
+      "scheduleType": "limited_series",
+      "participationType": "drop_in",
+      "isRecurring": false,
+      "status": "published",
+      "verifiedAt": "2026-10-15",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "id": "zoom-halloween",
+      "title": "Halloween Night a ZOOM",
+      "organizationId": "new-zoom",
+      "category": "Natura e spettacoli",
+      "venue": "ZOOM Torino · strada Piscina 36",
+      "url": "https://eventi.zoomtorino.it/halloween",
+      "occurrences": [
+        "2026-10-17T16:00:00+02:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-17T16:00:00+02:00": "2026-10-17T22:00:00+02:00"
+      },
+      "description": "Una serata di Halloween in famiglia tra allestimenti, cantastorie e animazione. Il programma comprende spettacoli e attività a tema: consultare il programma ufficiale per gli orari dei singoli appuntamenti.",
+      "costLabel": "Ingresso dalle 16: promo online 9,90 €",
+      "relatedSources": [
+        {
+          "label": "Programma ufficiale 2026",
+          "url": "https://www.zoomtorino.it/wp-content/uploads/pdf/eventi/Programma%20Halloween%202026%20ZOOM.pdf"
+        },
+        {
+          "label": "Biglietti Halloween",
+          "url": "https://shop.zoomtorino.it/shop/halloween/"
+        }
+      ],
+      "startsAt": "2026-10-17T16:00:00+02:00",
+      "illustration": "illustrazione-zoom-halloween.png"
     }
   ],
   "organizations": [
@@ -2632,6 +2927,46 @@
       "verificationStatus": "canale_consultato",
       "lastCheckedAt": "2026-10-12",
       "pdfPage": null
+    },
+    {
+      "id": "new-pagliacce",
+      "name": "Pagliacce Festival · le2eunquarto",
+      "url": "https://www.pagliacce.it/festival-pagliacce/",
+      "municipality": "Torino",
+      "category": "Spettacoli e attività per famiglie",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-15"
+    },
+    {
+      "id": "new-gravity",
+      "name": "Gravity The Show",
+      "url": "https://gravityshow.it/",
+      "municipality": "Torino",
+      "category": "Spettacoli e attività per famiglie",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-15"
+    },
+    {
+      "id": "new-pellerina",
+      "name": "Oktoberfest Torino",
+      "url": "https://oktoberfest.torino.it/il-luna-park",
+      "municipality": "Torino",
+      "category": "Spettacoli e attività per famiglie",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-15"
+    },
+    {
+      "id": "new-zoom",
+      "name": "ZOOM Torino",
+      "url": "https://eventi.zoomtorino.it/halloween",
+      "municipality": "Cumiana",
+      "category": "Spettacoli e attività per famiglie",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-15"
     }
   ]
 }
