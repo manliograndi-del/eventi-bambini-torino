@@ -1,12 +1,37 @@
-# Aggregatore Eventi Bambini Torino
+# La settimana dei bambini
 
-Sito statico con 32 attività e 46 appuntamenti per la settimana 12–18 ottobre 2026. Verifiche effettuate il 12 ottobre 2026. Filtri per età, territorio, costo e categoria; fonti originali nelle schede. I dettagli non confermati sono dichiarati.
+Calendario illustrato per famiglie a Torino e nell’area metropolitana.
 
-Pubblicazione GitHub Pages: selezionare il branch main e la cartella / (root) nelle impostazioni Pages. Nessuna compilazione necessaria.
+Sito: https://manliograndi-del.github.io/eventi-bambini-torino/
 
-Il registro privato delle segnalazioni incerte, il PDF e i materiali di lavoro non sono inclusi. Non sono presenti aggiornamenti automatici: ricontrollare le fonti prima di ogni nuova settimana.
+Leggere [AGENTS.md](AGENTS.md) e [docs/PROGETTO.md](docs/PROGETTO.md) prima di lavorare sul sito.
 
-## Interfaccia illustrata
-Carte per i giorni, filtro Gratis, manopole per uno o due bambini. Tutte le attività sono visibili inizialmente. Sotto 10 risultati le locandine diventano righe espandibili.
+## Uso e dati
 
-Per ogni nuovo evento: verificare la fonte originale, salvare descrizione e URL, creare una nuova illustrazione originale coerente, registrarla in illustrations.json e associarla all’ID stabile in playful.js. Non riutilizzare un disegno di un evento diverso. Le immagini sono interpretazioni illustrative, non foto o locandine ufficiali. Nessuna generazione automatica è attiva.
+Oggi e i sei giorni successivi, nel fuso Europe/Rome. Filtri per giorni, età (compresi i bambini sotto un anno) e gratuità. Gratis è disattivato all’avvio. Con meno di dieci risultati compaiono righe espandibili; altrimenti tessere illustrate. Le schede contengono fonti, costi e date di verifica. Età o prezzi ignoti non vengono inventati.
+
+catalog.json è la fonte strutturata; daily-catalog.js è generato. calendar.js contiene le regole temporali; playful.js e playful.css gestiscono l’interfaccia. I vecchi script non vengono più caricati.
+
+Lo scorrimento quotidiano non verifica nuove attività, cancellazioni o disponibilità. La ricerca editoriale prevista è settimanale, con una riserva di tredici giorni. Un giorno privo di schede non prova l’assenza di eventi nel territorio.
+
+## Verifiche e generazione
+
+Richiesto Node.js 20 o successivo. Non occorre installare dipendenze per questi comandi:
+
+```text
+node scripts/build.cjs --check
+node scripts/build.cjs
+node scripts/test.cjs
+```
+
+La build valida dati, riferimenti, illustrazioni, duplicati e date, produce daily-catalog.js e aggiorna le versioni cache in modo deterministico. Stampa la copertura dei tredici giorni. **Non pubblica online e non sostituisce il controllo delle fonti.**
+
+Aprire index.html in browser per una prova locale. Prima della pubblicazione verificare anche mobile, touch, tastiera, dialoghi, focus e movimento ridotto. GitHub Pages usa main e la cartella radice.
+
+## Immagini e materiali
+
+Le tessere usano illustrazioni originali WebP, con PNG originali conservati. Le repliche mantengono la stessa illustrazione. illustrationCell identifica una cella dei fogli storici 4×4; le immagini singole non hanno questo campo. illustrations.json conserva la provenienza delle immagini.
+
+Le immagini ufficiali nelle schede richiedono fonte, credito e condizioni di riuso documentate. In caso di errore di caricamento si mostra l’illustrazione originale.
+
+Note di ricerca, archivi di lavoro, PDF e piste non confermate rimangono nel workspace editoriale privato. Non pubblicare quel workspace integralmente.

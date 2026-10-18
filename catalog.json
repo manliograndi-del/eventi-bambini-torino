@@ -11,10 +11,9 @@
       "ageMaxMonths": null,
       "ageLabel": "Dai 5 anni",
       "occurrences": [
-        "2026-10-17T16:30:00+02:00",
         "2026-10-18T16:30:00+02:00"
       ],
-      "startsAt": "2026-10-17T16:30:00+02:00",
+      "startsAt": "2026-10-18T16:30:00+02:00",
       "url": "https://casateatroragazzi.it/spettacoli/le-avventure-di-cipidillo-storia-di-un-grillo/",
       "description": "Un piccolo grillo parte alla ricerca di qualcosa che renda felice il mondo e incontra altri esseri diversi da lui. Due interpreti costruiscono il racconto con un filo bianco che diventa oggetti e paesaggi: un invito a immaginare insieme e a superare i giudizi sulle differenze.",
       "venue": "Casa del Teatro Ragazzi e Giovani · corso Galileo Ferraris 266",
@@ -49,7 +48,9 @@
         "date": "2026-10-15",
         "source": "https://casateatroragazzi.it/spettacoli/le-avventure-di-cipidillo-storia-di-un-grillo/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 0
     },
     {
       "id": "much-crimine",
@@ -61,12 +62,10 @@
       "ageMaxMonths": 144,
       "ageLabel": "5–12 anni",
       "occurrences": [
-        "2026-10-17T10:30:00+02:00",
-        "2026-10-17T16:30:00+02:00",
         "2026-10-18T10:30:00+02:00",
         "2026-10-18T16:30:00+02:00"
       ],
-      "startsAt": "2026-10-17T10:30:00+02:00",
+      "startsAt": "2026-10-18T10:30:00+02:00",
       "url": "https://www.mu-ch.it/evento/il-museo-del-crimine-17-ottobre-2026-much/",
       "description": "I bambini indagano su una scena del crimine: confrontano impronte, analizzano sostanze misteriose e mettono alla prova gli indizi. Il laboratorio usa piccoli esperimenti di chimica e scienza forense per ricostruire il caso e cercare il colpevole.",
       "venue": "MU-CH · via Leinì 84",
@@ -101,7 +100,9 @@
         "date": "2026-10-15",
         "source": "https://www.mu-ch.it/evento/il-museo-del-crimine-17-ottobre-2026-much/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 1
     },
     {
       "id": "much-cucine",
@@ -113,10 +114,9 @@
       "ageMaxMonths": null,
       "ageLabel": "Dai 5 anni",
       "occurrences": [
-        "2026-10-17T15:00:00+02:00",
         "2026-10-18T15:00:00+02:00"
       ],
-      "startsAt": "2026-10-17T15:00:00+02:00",
+      "startsAt": "2026-10-18T15:00:00+02:00",
       "url": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
       "description": "Uno show scientifico con un cuoco inesperto alle prese con ricette imprevedibili: gli ingredienti della cucina diventano protagonisti di reazioni chimiche ed esplosioni dimostrative. Si assiste allo spettacolo; non è il laboratorio individuale del Museo del Crimine.",
       "venue": "MU-CH · via Leinì 84",
@@ -151,7 +151,9 @@
         "date": "2026-10-15",
         "source": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 2
     },
     {
       "id": "ogr-fantasia",
@@ -181,55 +183,9 @@
       "booking": "Gratuito, online. Prenotazione tramite prenotazioni@ogrtorino.it.",
       "researchNote": "Calendario e descrizione originali OGR riletti: 21 ottobre 2026 ore 20:30; 4–10 anni; gratuito; email del pulsante verificata.",
       "deepCheckedAt": "2026-10-15",
-      "relatedSources": []
-    },
-    {
-      "id": "ogr-tempo",
-      "title": "TicTac Lab – Costruiamo il tempo",
-      "organizationId": "ogr",
-      "category": "Musei e scienza",
-      "municipality": "Torino",
-      "ageMinMonths": 72,
-      "ageMaxMonths": 144,
-      "ageLabel": "6–12 anni",
-      "occurrences": [
-        "2026-10-17T15:00:00+02:00",
-        "2026-10-17T17:00:00+02:00"
-      ],
-      "startsAt": "2026-10-17T15:00:00+02:00",
-      "url": "https://ogrtorino.it/events/tictac-lab-costruiamo-il-tempo",
-      "description": "Con Bricks 4 Kidz i bambini costruiscono un orologio motorizzato usando mattoncini, parti tecniche e ingranaggi. Osservano il movimento delle lancette e scoprono come si misurano secondi, minuti e ore.",
-      "venue": "Aula didattica OGR Torino",
-      "costLabel": "Gratuito · prenotazione richiesta",
-      "costBand": "free",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Aperto il modulo effettivo: il generico pulsante “prenotazioni disponibili” della scheda non corrisponde a posti liberi.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Al controllo del 12 ottobre, il modulo indica nessun posto alle 15 e lista d’attesa alle 17. Il modulo riporta Spazio Dinamo, mentre la scheda dice Aula didattica: verificare la sala nella conferma. Massimo 3 adulti e 5 minorenni per richiesta.",
-      "availabilityLabel": "15:00 esaurito · 17:00 solo lista d’attesa",
-      "deepSources": [
-        [
-          "Prenotazioni e disponibilità",
-          "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=191"
-        ]
-      ],
-      "researchNote": "Aperto il modulo effettivo: il generico pulsante “prenotazioni disponibili” della scheda non corrisponde a posti liberi.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": [
-        {
-          "label": "Prenotazioni e disponibilità",
-          "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=191"
-        }
-      ],
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://ogrtorino.it/events/tictac-lab-costruiamo-il-tempo",
-        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      "relatedSources": [],
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 3
     },
     {
       "id": "ogr-mondo",
@@ -276,7 +232,9 @@
         "date": "2026-10-15",
         "source": "https://ogrtorino.it/events/in-viaggio-verso-il-mondo-perduto",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 5
     },
     {
       "id": "ogr-pizza",
@@ -323,7 +281,9 @@
         "date": "2026-10-15",
         "source": "https://ogrtorino.it/events/pizza-pazza-chez-operti",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 6
     },
     {
       "id": "ateliebebe",
@@ -371,7 +331,9 @@
         "date": "2026-10-15",
         "source": "https://unionemusicale.it/concerto/ateliebebe-18102026/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 7
     },
     {
       "id": "rosaluna",
@@ -434,65 +396,9 @@
         "date": "2026-10-15",
         "source": "https://www.comune.settimo-torinese.to.it/it/eventi/57411/rosaluna-e-i-lupi-728766-728768",
         "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
-      }
-    },
-    {
-      "id": "toro-picasso",
-      "title": "Toro alla Picasso",
-      "organizationId": "barrito-new",
-      "category": "Case del Quartiere",
-      "municipality": "Torino",
-      "ageMinMonths": 36,
-      "ageMaxMonths": 84,
-      "ageLabel": "Circa 3–7 anni",
-      "occurrences": [
-        "2026-10-17T16:30:00+02:00"
-      ],
-      "startsAt": "2026-10-17T16:30:00+02:00",
-      "url": "https://www.barrito.to.it/i-sabati-giocondi-ottobre-2026/",
-      "description": "Laboratorio artistico con Suzanne Piana dedicato a osservare, scoprire e rielaborare, prendendo spunto dal toro di Picasso. Fa parte dei Sabati Giocondi, attività creative per sperimentare insieme alla Casa del Quartiere Barrito.",
-      "venue": "Casa del Quartiere Barrito · via Tepice 23/C",
-      "costLabel": "Gratuito",
-      "costBand": "free",
-      "discoverySources": [
-        "https://www.torinobimbi.it/agenda/sabati-giocondi-toro-alla-picasso"
-      ],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Seguito il link dal Barrito al profilo Eventbrite e aperta la scheda del singolo laboratorio: confermati età, durata e modalità.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Prenotazione obbligatoria su Eventbrite, soltanto per i piccoli partecipanti. Il profilo ufficiale dell’organizzatore indica gratuito e non ancora in vendita al controllo del 12 ottobre.",
-      "relatedSources": [
-        {
-          "label": "Suzanne Piana, curatrice",
-          "url": "https://mammamuseo.weebly.com/chi-sono.html"
-        },
-        {
-          "label": "Prenotazioni Barrito",
-          "url": "https://www.eventbrite.it/o/casa-del-quartiere-barrito-37531170953"
-        },
-        {
-          "label": "Scheda Eventbrite del laboratorio",
-          "url": "https://www.eventbrite.it/e/i-sabati-giocondi-toro-alla-picasso-tickets-2003282868988"
-        }
-      ],
-      "durationLabel": "90 minuti · 16:30–18:00",
-      "availabilityLabel": "Prenotazioni non ancora aperte al controllo",
-      "deepSources": [
-        [
-          "Scheda Eventbrite del laboratorio",
-          "https://www.eventbrite.it/e/i-sabati-giocondi-toro-alla-picasso-tickets-2003282868988"
-        ]
-      ],
-      "researchNote": "Seguito il link dal Barrito al profilo Eventbrite e aperta la scheda del singolo laboratorio: confermati età, durata e modalità.",
-      "deepCheckedAt": "2026-10-12",
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://www.barrito.to.it/i-sabati-giocondi-ottobre-2026/",
-        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 8
     },
     {
       "id": "lingotto-nuvole",
@@ -542,7 +448,9 @@
       },
       "occurrenceEnds": {
         "2026-10-18T11:00:00+02:00": "2026-10-18T12:00:00+02:00"
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 11
     },
     {
       "id": "luogo-luogo",
@@ -592,84 +500,9 @@
       },
       "occurrenceEnds": {
         "2026-10-18T16:00:00+02:00": "2026-10-18T17:30:00+02:00"
-      }
-    },
-    {
-      "id": "mao-india",
-      "title": "L’India tra sculture e polveri colorate",
-      "organizationId": "org-8",
-      "category": "Musei e scienza",
-      "municipality": "Torino",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Famiglie · età da confermare",
-      "occurrences": [
-        "2026-10-17"
-      ],
-      "startsAt": "2026-10-17",
-      "url": "https://www.maotorino.it/it/evento/aspettando-la-festa-indiana-delle-luci-lindia-tra-sculture-e-polveri-colorate/",
-      "description": "Appuntamento per famiglie in attesa della festa indiana delle luci. Data e titolo confermati dal museo; altri dettagli da completare.",
-      "venue": "MAO · via San Domenico 11",
-      "costLabel": "Costo da confermare",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale consultata",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Data e titolo confermati. Orario, prezzo e descrizione estesa ancora da chiedere al museo: 0114436932. La pagina non ha caricato il corpo dell’evento anche dopo la gestione dei cookie; l’immagine allegata è una fotografia senza testo informativo.",
-      "timeUnknown": true,
-      "researchNote": "Aperti pagina evento, immagine originale e menu Servizi Educativi. Nessun prezzo o dettaglio ulteriore recuperabile; non trasferiti automaticamente quelli degli aggregatori.",
-      "researchStatus": "dettagli_parziali",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": [],
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://www.maotorino.it/it/evento/aspettando-la-festa-indiana-delle-luci-lindia-tra-sculture-e-polveri-colorate/",
-        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
-      }
-    },
-    {
-      "id": "disney-mauto",
-      "title": "Disegna con un artista Disney",
-      "organizationId": "mauto-new",
-      "category": "Musei e scienza",
-      "municipality": "Torino",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Adulti e bambini · età minima non indicata",
-      "occurrences": [
-        "2026-10-17T10:30:00+02:00"
-      ],
-      "startsAt": "2026-10-17T10:30:00+02:00",
-      "url": "https://www.museoauto.com/eventi/disegna-con-un-artista-disney/",
-      "description": "Un artista Disney mostra come nasce un personaggio e invita grandi e piccoli a provarci con matite e colori. Workshop gratuito in collaborazione con Giunti Editore, dalle 10:30 alle 12:30 nella Piazza del MAUTO.",
-      "venue": "Piazza MAUTO · corso Unità d’Italia 40",
-      "costLabel": "Gratuito",
-      "costBand": "free",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Letta la pagina completa: nessun collegamento a una prenotazione specifica del workshop.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "La scheda non indica una prenotazione specifica né un’età minima numerica. Il workshop è gratuito; non è dichiarato che includa la visita al museo.",
-      "durationLabel": "Finestra attività: 2 ore",
-      "researchNote": "Letta la pagina completa: nessun collegamento a una prenotazione specifica del workshop.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": [],
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://www.museoauto.com/eventi/disegna-con-un-artista-disney/",
-        "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
       },
-      "occurrenceEnds": {
-        "2026-10-17T10:30:00+02:00": "2026-10-17T12:30:00+02:00"
-      },
-      "illustration": "illustrazione-disney-mauto-v2.png"
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 12
     },
     {
       "id": "miradolo-spazio",
@@ -728,7 +561,9 @@
         "date": "2026-10-15",
         "source": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-13/",
         "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
-      }
+      },
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 15
     },
     {
       "id": "gisella",
@@ -764,7 +599,9 @@
       ],
       "occurrenceEnds": {
         "2026-10-20T17:00:00+02:00": "2026-10-20T18:00:00+02:00"
-      }
+      },
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 0
     },
     {
       "id": "helix-esploratori",
@@ -803,7 +640,9 @@
       },
       "occurrenceEnds": {
         "2026-10-18T15:00:00+02:00": "2026-10-18T17:30:00+02:00"
-      }
+      },
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 1
     },
     {
       "id": "san-giorgio",
@@ -840,7 +679,9 @@
         "date": "2026-10-15",
         "source": "https://www.casa-bit.it/10-rassegna-del-piccolo-teatro-di-casa-bit/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      },
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 2
     },
     {
       "id": "mrsn-visite",
@@ -890,115 +731,9 @@
         "date": "2026-10-15",
         "source": "https://mrsntorino.it/it/eventi/visita-guidata-18-10-2026/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
-    },
-    {
-      "id": "ogr-faro",
-      "title": "Sunset Puppets Show @ FARO",
-      "organizationId": "ogr",
-      "category": "Teatro",
-      "municipality": "Torino",
-      "ageMinMonths": 0,
-      "ageMaxMonths": 1188,
-      "ageLabel": "0–99 anni",
-      "occurrences": [
-        "2026-10-16T17:30:00+02:00"
-      ],
-      "startsAt": "2026-10-16T17:30:00+02:00",
-      "url": "https://ogrtorino.it/events/sunset-puppets-show-faro",
-      "description": "Gianduja sale in scena in uno spettacolo di burattini della Fondazione Marionette Grilli, sulla terrazza dell’Hospice FARO affacciata su Torino. Durante l’evento è offerta cioccolata calda ai partecipanti.",
-      "venue": "Hospice FARO · via San Vito Revigliasco 34",
-      "costLabel": "Gratuito",
-      "costBand": "free",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Aperti scheda completa e modulo: posti al completo, lista d’attesa disponibile.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Al controllo del 12 ottobre il modulo accetta richieste di lista d’attesa. Attività gratuita. Sede Hospice FARO, via San Vito Revigliasco 34; non la sede OGR.",
-      "availabilityLabel": "Posti completi · solo lista d’attesa",
-      "deepSources": [
-        [
-          "Lista d’attesa FARO",
-          "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=198"
-        ]
-      ],
-      "researchNote": "Aperti scheda completa e modulo: posti al completo, lista d’attesa disponibile.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": [
-        {
-          "label": "Lista d’attesa FARO",
-          "url": "https://prenotazioni.ogrtorino.it/eventi/Reservation/RequestReservation?eventId=198"
-        }
-      ],
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://ogrtorino.it/events/sunset-puppets-show-faro",
-        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
-    },
-    {
-      "id": "aperi-cielo",
-      "title": "Aperi-cielo – Le grandi migrazioni",
-      "organizationId": "org-40",
-      "category": "Natura",
-      "municipality": "Venaria Reale",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Età e condizioni da confermare",
-      "occurrences": [
-        "2026-10-16T18:45:00+02:00"
-      ],
-      "startsAt": "2026-10-16T18:45:00+02:00",
-      "url": "https://www.parchireali.it/events/le-grandi-migrazioni-apericena/",
-      "description": "Breve camminata da Ponte Verde a Cascina Prato Pascolo cercando gli uccelli in volo, seguita da un’introduzione alle migrazioni e da un’apericena alla Locanda della Mandria. Consigliati binocolo personale e scarpe comode.",
-      "venue": "Ritrovo Ingresso Ponte Verde, ore 18:45 · Parco La Mandria",
-      "costLabel": "Apericena 15 € a persona",
-      "costBand": "mid",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Dal calendario aperta la scheda completa: recuperati prezzo, punto di ritrovo e modalità di uscita dal parco.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Prenotazione obbligatoria, massimo 30 posti: info@parcomandria.it, 0114320977. Apericena con stuzzichini, caffè e una bevanda. Segnalare allergie o intolleranze alla prenotazione. Uscita finale soltanto da Ponte Verde con accompagnamento. Nessuna tariffa bambini o età minima pubblicata; cani non ammessi.",
-      "researchNote": "Dal calendario aperta la scheda completa: recuperati prezzo, punto di ritrovo e modalità di uscita dal parco.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
-    },
-    {
-      "id": "mandria-express",
-      "title": "Mandria Express",
-      "organizationId": "org-40",
-      "category": "Natura",
-      "municipality": "Venaria Reale",
-      "ageMinMonths": 0,
-      "ageMaxMonths": null,
-      "ageLabel": "Famiglie · tutte le età",
-      "occurrences": [
-        "2026-10-17T21:00:00+02:00"
-      ],
-      "startsAt": "2026-10-17T21:00:00+02:00",
-      "url": "https://www.parchireali.it/events/mandria-express-8/",
-      "description": "Un giro notturno in trenino nel Parco La Mandria dopo la chiusura al pubblico. Una guida naturalistica racconta la storia del parco, la vegetazione e i grandi alberi lungo il percorso.",
-      "venue": "Cascina Brero · via Scodeggio 197/A",
-      "costLabel": "25 € a persona",
-      "costBand": "high",
-      "discoverySources": [],
-      "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Aperta la scheda originale completa: confermati ritrovo, durata, costo e vestiario.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "25 € a persona; nessuna diversa tariffa bambini indicata. Prenotazione obbligatoria: 0114320977, info@parcomandria.it (punto informativo chiuso il lunedì). Ritrovo Cascina Brero, via Scodeggio 197/A. Abiti comodi e caldi adatti alla sera.",
-      "durationLabel": "2 ore",
-      "researchNote": "Aperta la scheda originale completa: confermati ritrovo, durata, costo e vestiario.",
-      "deepCheckedAt": "2026-10-12",
-      "relatedSources": []
+      },
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 3
     },
     {
       "id": "pugnetto",
@@ -1049,7 +784,9 @@
           "label": "Informazione integrativa Turismo Torino 2026",
           "url": "https://turismotorino.org/it/visita/eventi/visite-alle-grotte-di-pugnetto-2026"
         }
-      ]
+      ],
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 7
     },
     {
       "id": "cartoon-party",
@@ -1087,200 +824,9 @@
       },
       "occurrenceEnds": {
         "2026-10-18T16:00:00+02:00": "2026-10-18T17:00:00+02:00"
-      }
-    },
-    {
-      "id": "circo-famiglia",
-      "title": "Circo in famiglia",
-      "organizationId": "second-circo-famiglia",
-      "category": "Associazioni e ludoteche",
-      "municipality": "San Didero",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Adulti e bambini insieme · età minima non indicata",
-      "occurrences": [
-        "2026-10-17T10:00:00+02:00"
-      ],
-      "startsAt": "2026-10-17T10:00:00+02:00",
-      "url": "https://www.facebook.com/photo/?fbid=1155413640385470&set=a.181123434481167",
-      "description": "Giochi circensi da sperimentare insieme, adulti e bambini, con una merenda condivisa.",
-      "venue": "Piazza Europa · San Didero",
-      "costLabel": "Costo non dichiarato",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Locandina originale pubblicata da Archimente, letta direttamente nell’immagine.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Prenotazione obbligatoria: Claudia, 3280844683, claudia.siddi@gmail.com. Chiedere costo e fascia d’età prima di prenotare.",
-      "deepCheckedAt": "2026-10-12",
-      "researchNote": "Letti il post di Archimente e la locandina originale con le date 2026–2027.",
-      "durationLabel": "1 ora · 10–11"
-    },
-    {
-      "id": "genitorialita-quadrato",
-      "title": "Genitorialità al quadrato",
-      "organizationId": "second-genitorialita-quadrato",
-      "category": "Associazioni e ludoteche",
-      "municipality": "Torino",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Per genitori di gemelli",
-      "occurrences": [
-        "2026-10-17T10:00:00+02:00"
-      ],
-      "startsAt": "2026-10-17T10:00:00+02:00",
-      "url": "https://centrorelazioniefamiglie.it/genitorialita-al-quadrato/",
-      "description": "Incontro di confronto per genitori di gemelli sulle dinamiche della crescita e sulle sfide educative e relazionali. Con Susanna Cameriere e Manuela Mazza.",
-      "venue": "Punto Psiche · via Angrogna 5",
-      "costLabel": "Gratuito",
-      "costBand": "free",
-      "discoverySources": [],
-      "verificationMethod": "Comunicazione originale consultata direttamente il 12 ottobre 2026.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Iscrizioni: 01101131562, relazioniefamiglie@comune.torino.it. Il comunicato di rettifica specifica 10–11:30 anche per il 17 ottobre. Il ciclo prevede un minimo di 8 partecipanti; disponibilità da chiedere. Attività per genitori, non un laboratorio per bambini.",
-      "deepCheckedAt": "2026-10-12",
-      "researchNote": "Aperto l’avviso completo nell’archivio del Centro: il nuovo orario è assegnato esplicitamente al 17 ottobre.",
-      "durationLabel": "1 ora e mezza · 10–11:30",
-      "relatedSources": [
-        {
-          "label": "Comune di Torino · gratuità e contatti",
-          "url": "https://www.comune.torino.it/novita/notizie/gruppo-genitorialita-al-quadrato"
-        }
-      ],
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://centrorelazioniefamiglie.it/genitorialita-al-quadrato/",
-        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "occurrenceEnds": {
-        "2026-10-17T10:00:00+02:00": "2026-10-17T11:30:00+02:00"
-      }
-    },
-    {
-      "id": "caluso-laboratori",
-      "title": "Laboratori creativi in biblioteca",
-      "organizationId": "second-caluso-laboratori",
-      "category": "Biblioteche e librerie",
-      "municipality": "Caluso",
-      "ageMinMonths": 60,
-      "ageMaxMonths": 120,
-      "ageLabel": "5–10 anni",
-      "occurrences": [
-        "2026-10-17T09:30:00+02:00"
-      ],
-      "startsAt": "2026-10-17T09:30:00+02:00",
-      "url": "https://comune.caluso.to.it/novita/laboratori-per-bambini-in-biblioteca-2/",
-      "description": "Letture e attività creative con Alessia e Sofia. Il 17 ottobre è elencato nella locandina del programma della biblioteca.",
-      "venue": "Biblioteca G. E. Mottini · Caluso",
-      "costLabel": "Costo non dichiarato",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Comunicazione originale consultata direttamente il 12 ottobre 2026.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Informazioni e prenotazioni: 0119894939, bibliotecacivicacaluso@gmail.com. Inizio 9:30; termine da chiarire: la locandina indica 11, il testo della pagina 11:30. Chiedere il costo.",
-      "deepCheckedAt": "2026-10-12",
-      "researchNote": "Letti notizia comunale e locandina incorporata: data ed età confermate, discordanza sull’ora finale conservata.",
-      "durationLabel": "Inizio 9:30 · termine 11 o 11:30, da chiarire",
-      "officialImage": {
-        "src": "https://comune.caluso.to.it/wp-content/uploads/sites/157/2026/09/Volantino-Giocoso-Informativo-Laboratorio-Creativo-Bambini-Azzurro-Arancione.png",
-        "credit": "Comune di Caluso · Biblioteca G. E. Mottini",
-        "license": "Riutilizzo con attribuzione",
-        "rightsUrl": "https://comune.caluso.to.it/note-legali/",
-        "alt": "Locandina dei laboratori creativi per bambini nella biblioteca di Caluso",
-        "sourceUrl": "https://comune.caluso.to.it/novita/laboratori-per-bambini-in-biblioteca-2/",
-        "reviewedAt": "2026-10-13",
-        "status": "approved"
-      }
-    },
-    {
-      "id": "grazie-doc",
-      "title": "Grazie Doc!",
-      "organizationId": "second-grazie-doc",
-      "category": "Comuni",
-      "municipality": "Borgaro Torinese",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Bambini e famiglie",
-      "occurrences": [
-        "2026-10-16T17:00:00+02:00"
-      ],
-      "startsAt": "2026-10-16T17:00:00+02:00",
-      "url": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
-      "description": "Una festa per salutare i pediatri Bellando e Berardi. Bambini e famiglie sono invitati a portare un disegno; è prevista una merenda.",
-      "venue": "Piazza Repubblica · Borgaro Torinese",
-      "costLabel": "Costo non dichiarato",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Comunicazione originale consultata direttamente il 12 ottobre 2026.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Dalle 17. Termine, costo ed eventuali condizioni di partecipazione non specificati nel comunicato letto. Consultare gli aggiornamenti del Comune.",
-      "deepCheckedAt": "2026-10-12",
-      "researchNote": "Notizia ufficiale pubblicata il 12 ottobre, recuperata nella sezione notizie del Comune.",
-      "officialImage": {
-        "src": "https://www.comune.borgaro-torinese.to.it/wp-content/webp-express/webp-images/uploads/2026/10/pediatri-2.pdf.jpg.webp",
-        "credit": "Comune di Borgaro Torinese",
-        "license": "CC BY 4.0",
-        "rightsUrl": "https://www.comune.borgaro-torinese.to.it/note-legali/",
-        "alt": "Locandina ufficiale Grazie Doc!, 16 ottobre alle 17:00 in piazza della Repubblica",
-        "sourceUrl": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
-        "reviewedAt": "2026-10-13",
-        "status": "approved"
-      },
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://www.comune.borgaro-torinese.to.it/notizia/grazie-doc-una-grande-festa-per-salutare-i-pediatri-che-hanno-accompagnato-generazioni-di-bambini/",
-        "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
-      }
-    },
-    {
-      "id": "autunno-valigia",
-      "title": "L’autunno in valigia · Sabato Favoloso",
-      "organizationId": "second-autunno-valigia",
-      "category": "Biblioteche e librerie",
-      "municipality": "Avigliana",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Bambini · fascia d’età da confermare",
-      "occurrences": [
-        "2026-10-17"
-      ],
-      "startsAt": "2026-10-17",
-      "url": "https://avigliananotizie.it/ottobre-in-biblioteca/",
-      "description": "Letture e laboratorio sensoriale con materiali naturali, a cura di Elisa Ricciardi dell’associazione Il giglio della Valle APS.",
-      "venue": "Avigliana · sede precisa da confermare",
-      "costLabel": "Costo da confermare",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Comunicazione originale consultata direttamente il 12 ottobre 2026.",
-      "status": "published",
-      "verifiedAt": "2026-10-12",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "La data del 17 è confermata. Le 10:30 sono l’orario generale dei Sabati Favolosi nel programma: verificare quello della singola attività, sede, fascia d’età e costo. La sede La Fabrica e la gratuità della segnalazione secondaria non sono confermate dal testo originale letto.",
-      "deepCheckedAt": "2026-10-12",
-      "researchNote": "Programma letto sulla testata del Comune; confermati titolo, data e curatrice, lasciati espliciti i dettagli mancanti.",
-      "timeUnknown": true,
-      "lastReview": {
-        "date": "2026-10-15",
-        "source": "https://avigliananotizie.it/ottobre-in-biblioteca/",
-        "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
-      }
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 9
     },
     {
       "id": "graphic-visite",
@@ -1292,12 +838,10 @@
       "ageMaxMonths": null,
       "ageLabel": "Per famiglie · età minima non indicata",
       "occurrences": [
-        "2026-10-17T12:00:00+02:00",
-        "2026-10-17T16:00:00+02:00",
         "2026-10-18T12:00:00+02:00",
         "2026-10-18T16:00:00+02:00"
       ],
-      "startsAt": "2026-10-17T12:00:00+02:00",
+      "startsAt": "2026-10-18T12:00:00+02:00",
       "url": "https://www.graphicdays.it/2026/torino/graphicdays/visite-guidate-1200h-e-1600h/",
       "description": "Visite per famiglie con strumenti e attività per esplorare insieme le mostre del festival. Quattro turni nel fine settimana.",
       "venue": "Cantieri Gruppo Building · via Banfo 43 · Area Kids",
@@ -1323,35 +867,9 @@
           "label": "Biglietti e riduzioni del festival",
           "url": "https://www.graphicdays.it/2026/biglietti/"
         }
-      ]
-    },
-    {
-      "id": "storytelling-arpa",
-      "title": "Storytelling con arpa",
-      "organizationId": "second-autunno-valigia",
-      "category": "Biblioteche e librerie",
-      "municipality": "Avigliana",
-      "ageMinMonths": 72,
-      "ageMaxMonths": null,
-      "ageLabel": "Dai 6 anni",
-      "occurrences": [
-        "2026-10-16T17:00:00+02:00"
       ],
-      "startsAt": "2026-10-16T17:00:00+02:00",
-      "url": "https://avigliananotizie.it/ottobre-in-biblioteca/",
-      "description": "Un incontro in biblioteca che intreccia racconto, arpa ed educazione musicale. Conduce Sabrina Carbonara, educatrice musicale del Sistema Goitre e musicoterapeuta specializzata in arpaterapia.",
-      "venue": "Biblioteca civica Primo Levi · Avigliana",
-      "costLabel": "Costo da confermare",
-      "costBand": "unknown",
-      "discoverySources": [],
-      "verificationMethod": "Programma di ottobre letto nella testata del Comune di Avigliana il 15 ottobre 2026.",
-      "status": "published",
-      "verifiedAt": "2026-10-15",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "booking": "Modalità di prenotazione e costo non specificati nel programma: chiedere alla biblioteca prima di partecipare.",
-      "illustration": "illustrazione-storytelling-arpa.png"
+      "illustration": "illustrations-b.webp",
+      "illustrationCell": 15
     },
     {
       "municipality": "Torino",
@@ -1376,9 +894,6 @@
       "venue": "Tendone Gravity · corso Principe Oddone",
       "url": "https://gravityshow.it/",
       "occurrences": [
-        "2026-10-16T20:00:00+02:00",
-        "2026-10-17T15:30:00+02:00",
-        "2026-10-17T18:00:00+02:00",
         "2026-10-18T15:30:00+02:00",
         "2026-10-18T18:00:00+02:00",
         "2026-10-19T17:30:00+02:00"
@@ -1391,8 +906,8 @@
           "url": "https://www.ticketone.it/artist/gravity-show/?inApp=true"
         }
       ],
-      "startsAt": "2026-10-16T20:00:00+02:00",
-      "illustration": "illustrazione-gravity.png"
+      "startsAt": "2026-10-18T15:30:00+02:00",
+      "illustration": "illustrazione-gravity.webp"
     },
     {
       "municipality": "Torino",
@@ -1400,7 +915,7 @@
       "ageMaxMonths": null,
       "ageLabel": "Età consigliata non indicata",
       "costBand": "unknown",
-      "booking": "Periodo annunciato: 17 ottobre–1 novembre 2026. Il sito riporta gli orari generali della festa; verificare quelli delle singole giostre.",
+      "booking": "Periodo annunciato: 17 ottobre–1 novembre 2026. Gli orari riportati sul sito riguardano la manifestazione; verificare apertura e condizioni delle singole giostre. Family Day annunciati senza calendario nella pagina consultata.",
       "scheduleType": "limited_series",
       "participationType": "drop_in",
       "isRecurring": false,
@@ -1417,17 +932,30 @@
       "venue": "Parco della Pellerina",
       "url": "https://oktoberfest.torino.it/il-luna-park",
       "occurrences": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
       ],
       "timeUnknown": true,
       "description": "Un luna park temporaneo con giostre per famiglie e attrazioni più movimentate. Si può andare anche soltanto per le giostre: prezzi e limiti di accesso vanno controllati per ciascuna attrazione.",
       "costLabel": "Giostre a pagamento · tariffe non pubblicate",
-      "startsAt": "2026-10-17",
-      "illustration": "illustrazione-pellerina.png"
+      "startsAt": "2026-10-18",
+      "illustration": "illustrazione-pellerina.webp",
+      "lastReview": {
+        "date": "2026-10-18",
+        "source": "https://oktoberfest.torino.it/il-luna-park",
+        "scope": "Riletta la pagina originale: periodo continuo dal 17 ottobre al 1 novembre 2026. Inserite solo le date nella riserva fino al 30 ottobre. Orari delle singole giostre e tariffe non confermati; mantenuti come ignoti."
+      }
     },
     {
       "municipality": "Torino",
@@ -1457,7 +985,7 @@
       "description": "Tre artisti sui trampoli della compagnia CITA animano la festa al parco. Un appuntamento di spettacolo di strada da vedere insieme in famiglia.",
       "costLabel": "Costo non indicato per questo appuntamento",
       "startsAt": "2026-10-18T12:00:00+02:00",
-      "illustration": "illustrazione-trampolieri.png"
+      "illustration": "illustrazione-trampolieri.webp"
     },
     {
       "municipality": "Torino",
@@ -1482,7 +1010,6 @@
       "venue": "Giardini Maria Teresa di Calcutta · corso Vercelli 10",
       "url": "https://www.pagliacce.it/spettacolo/biblioclown-9/",
       "occurrences": [
-        "2026-10-17T11:00:00+02:00",
         "2026-10-18T15:00:00+02:00"
       ],
       "description": "Un laboratorio per bambini che intreccia movimento, immaginazione e gioco clownesco. Le attività invitano a esplorare possibilità e ruoli senza restare chiusi negli stereotipi.",
@@ -1497,74 +1024,8 @@
           "url": "https://www.ticket.it/teatro/evento/biblioclown_33961.aspx"
         }
       ],
-      "startsAt": "2026-10-17T11:00:00+02:00",
-      "illustration": "illustrazione-biblioclown.png"
-    },
-    {
-      "municipality": "Torino",
-      "ageMinMonths": 72,
-      "ageMaxMonths": 120,
-      "ageLabel": "6–10 anni",
-      "costBand": "low",
-      "booking": "Biglietteria: intero 5 €, diritti di agenzia 1–1,20 € a biglietto.",
-      "scheduleType": "single",
-      "participationType": "drop_in",
-      "isRecurring": false,
-      "status": "published",
-      "verifiedAt": "2026-10-15",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "id": "emozioni-parita",
-      "title": "Laboratorio di educazione affettiva e parità",
-      "organizationId": "new-pagliacce",
-      "category": "Laboratori",
-      "venue": "Giardini Maria Teresa di Calcutta · corso Vercelli 10",
-      "url": "https://www.pagliacce.it/spettacolo/laboratorio-di-educazione-affettiva-e-parita-6-10-anni/",
-      "occurrences": [
-        "2026-10-17T15:00:00+02:00"
-      ],
-      "description": "Un incontro per esplorare emozioni, relazioni e parità insieme a Pagliacce Network ed EMMA-CAV. Il laboratorio è rivolto a bambine e bambini dai 6 ai 10 anni.",
-      "costLabel": "5 € + diritti online",
-      "relatedSources": [
-        {
-          "label": "Prenotazione",
-          "url": "https://www.ticket.it/teatro/evento/laboratorio-di-educazione-affettiva-e-parita.aspx"
-        }
-      ],
-      "startsAt": "2026-10-17T15:00:00+02:00",
-      "illustration": "illustrazione-emozioni-parita.png"
-    },
-    {
-      "municipality": "Torino",
-      "ageMinMonths": null,
-      "ageMaxMonths": null,
-      "ageLabel": "Età consigliata non indicata",
-      "costBand": "unknown",
-      "booking": "Consultare la fonte per informazioni e prenotazioni.",
-      "scheduleType": "single",
-      "participationType": "drop_in",
-      "isRecurring": false,
-      "status": "published",
-      "verifiedAt": "2026-10-15",
-      "verifiedBy": "Ricerca assistita su fonte originale",
-      "verificationMethod": "Pagina del singolo appuntamento e, dove disponibile, calendario o biglietteria ufficiale consultati il 15 ottobre 2026.",
-      "isExample": false,
-      "accessibility": "Da chiedere all’organizzatore",
-      "id": "parata-pagliacce",
-      "title": "Parata bimb@quartiere",
-      "organizationId": "new-pagliacce",
-      "category": "Spettacoli",
-      "venue": "Cecchi Point · via Antonio Cecchi 17 · partenza",
-      "url": "https://www.pagliacce.it/spettacolo/parata-bimb-quartiere-con-le-artiste-del-festival-e-le-famiglie-del-quartiere/",
-      "occurrences": [
-        "2026-10-17T17:00:00+02:00"
-      ],
-      "description": "Una parata di quartiere con le artiste del festival, bambine, bambini e famiglie. Il ritrovo è al Cecchi Point per condividere un momento di festa per le strade.",
-      "costLabel": "Costo non indicato nella pagina",
-      "startsAt": "2026-10-17T17:00:00+02:00",
-      "illustration": "illustrazione-parata-pagliacce.png"
+      "startsAt": "2026-10-18T15:00:00+02:00",
+      "illustration": "illustrazione-biblioclown.webp"
     },
     {
       "municipality": "Torino",
@@ -1603,7 +1064,7 @@
         }
       ],
       "startsAt": "2026-10-18T16:00:00+02:00",
-      "illustration": "illustrazione-kids.png"
+      "illustration": "illustrazione-kids.webp"
     },
     {
       "municipality": "Cumiana",
@@ -1628,13 +1089,17 @@
       "venue": "ZOOM Torino · strada Piscina 36",
       "url": "https://eventi.zoomtorino.it/halloween",
       "occurrences": [
-        "2026-10-17T16:00:00+02:00"
+        "2026-10-24T16:00:00+02:00",
+        "2026-10-25T16:00:00+01:00",
+        "2026-10-30T16:00:00+01:00"
       ],
       "occurrenceEnds": {
-        "2026-10-17T16:00:00+02:00": "2026-10-17T22:00:00+02:00"
+        "2026-10-24T16:00:00+02:00": "2026-10-24T22:00:00+02:00",
+        "2026-10-25T16:00:00+01:00": "2026-10-25T22:00:00+01:00",
+        "2026-10-30T16:00:00+01:00": "2026-10-30T22:00:00+01:00"
       },
       "description": "Una serata di Halloween in famiglia tra allestimenti, cantastorie e animazione. Il programma comprende spettacoli e attività a tema: consultare il programma ufficiale per gli orari dei singoli appuntamenti.",
-      "costLabel": "Ingresso dalle 16: promo online 9,90 €",
+      "costLabel": "Promo online annunciata: 9,90 € acquistando entro il 22/10 · tariffa successiva da verificare",
       "relatedSources": [
         {
           "label": "Programma ufficiale 2026",
@@ -1645,8 +1110,13 @@
           "url": "https://shop.zoomtorino.it/shop/halloween/"
         }
       ],
-      "startsAt": "2026-10-17T16:00:00+02:00",
-      "illustration": "illustrazione-zoom-halloween.png"
+      "startsAt": "2026-10-24T16:00:00+02:00",
+      "illustration": "illustrazione-zoom-halloween.webp",
+      "lastReview": {
+        "date": "2026-10-18",
+        "source": "https://eventi.zoomtorino.it/halloween",
+        "scope": "Riletta la pagina Halloween 2026: serate 17, 24, 25, 30, 31 ottobre e 1 novembre; ingresso serale dalle 16, chiusura 22, ultimo ingresso 20:30. Inserite le tre repliche entro il 30 ottobre, conservando l’illustrazione. Promo condizionata all’acquisto entro il 22 ottobre; nessuna verifica di disponibilità in tempo reale."
+      }
     }
   ],
   "organizations": [
